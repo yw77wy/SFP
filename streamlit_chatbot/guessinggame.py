@@ -35,7 +35,3 @@ if st.session_state.finished:
         st.session_state.attempts = 0
         st.session_state.finished = False
 
-
-
-
-
